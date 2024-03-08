@@ -6,3 +6,5 @@
 3.In my third assignment i learned about the uses of logical operators(and,or,not), for loop.here the link  is[assignment.3](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/assignment3.js)
 
 4.In my fourth assignment i learned about the function( anatomy of function,using of a function, optional parameters,passing parapeters)etc.here the link[assignment.5](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/assignment5.js)
+
+5. here i made a black and white image by changing the pixel value from array which was already made.here the picture link[black and white image](https://github.com/maria-rahman-mila/Assignment-codes/commit/ca49c27cc431234d9a95ba97b199f6cfb00f381a)
