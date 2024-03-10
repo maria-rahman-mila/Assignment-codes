@@ -14,3 +14,5 @@
 7.Its a table whhich containing data(band name,wavvelength,pixel, description) of 3 satelites.here is the link [Data table](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/satelite data.pdf)
 
 8.Here is the link of an image showing the Boundary of Bangladesh [Boundary of BGD](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/Boundary ) 
+
+9.Here the link of image and code which showing different geometric property(point,polygon,rectangle) in GEE[geometrics](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/Geometrics.png) [code of geometrics](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/code%20of%20geometrics(point%2Cpolygon%2Crectangle))
