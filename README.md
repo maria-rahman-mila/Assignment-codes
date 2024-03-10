@@ -12,3 +12,5 @@
 6. its a RGB image where Red,Green,Blue colours are separated.here the image link[RGB image](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/separated_R_G_B(1).png)
 
 7.Its a table whhich containing data(band name,wavvelength,pixel, description) of 3 satelites.here is the link [Data table](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/satelite data.pdf)
+
+8.Here is te link of an image showing the boundary of Bangladesh https://github.com/maria-rahman-mila/Assignment-codes/blob/main/Boundary%20of%20bgd.png
