@@ -15,6 +15,8 @@
 
 8.Here is the link of an image showing the Boundary of Bangladesh [Boundary of BGD](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/Boundary ) 
 
-9.Here the link of image and code which showing different geometric property(point,polygon,rectangle) in GEE[geometrics](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/Geometrics.png) [code of geometrics](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/code%20of%20geometrics(point%2Cpolygon%2Crectangle))
+9.Here the link of image and code which showing different geometric features (point,polygon,rectangle) in GEE[geometrics](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/Geometrics.png) [code of geometrics](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/code%20of%20geometrics(point%2Cpolygon%2Crectangle))
 
 10.Here is alink of an image showing the boundary of CTG division of BGD[Boundary of CTG division](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/Boundary%20of%20ctg%20division.png)
+
+11.Here is the link of an image and code of 5 polygons which detects 5 waterbodies of my area[image of waterbodies](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/waterbodies.png) [code of polygons](https://github.com/maria-rahman-mila/Assignment-codes/blob/main/code%20of%20waterbodies)
